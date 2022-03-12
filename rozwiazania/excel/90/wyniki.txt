@@ -1,0 +1,24 @@
+Zadanie 1 
+Katowice,57, Politechnika Informatyczno-Elektroniczna
+
+Zadanie 2
+143
+2257
+
+Zadanie 3
+											I	II	III	IV	V	
+Akademia Sztuk Pieknych					32	10	6	2	5	
+Politechnika Informatyczno-Elektroniczna	299	108	48	54	54	
+Politechnika Krolewska						168	59	28	31	25	
+Uniwersytet Ekonomiczny					32	9	3	2	7	
+Uniwersytet Krolewski						233	77	53	32	61	
+Uniwersytet Muzyczny						5	2	0	1	0
+Uniwersytet Pedagogiczny					31	11	4	2	5	
+Uniwersytet Rolniczy						27	14	7	5	6	
+Uniwersytet Sportu i Turystyki			24	5	6	3	5	
+Wyzsza Szkoła Techniczna					8	1	1	0	5	
+
+
+
+
+	

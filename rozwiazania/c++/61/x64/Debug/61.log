@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\grzeg\Desktop\matura\informatyka\c++\61\main.cpp(35,3): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\grzeg\Desktop\matura\informatyka\c++\61\main.cpp(46,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\grzeg\Desktop\matura\informatyka\c++\61\main.cpp(57): warning C4715: "blad”: niewszystkie ścieżki kodu zwracają wartość
+  61.vcxproj -> C:\Users\grzeg\Desktop\matura\informatyka\c++\61\x64\Debug\61.exe

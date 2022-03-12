@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\grzeg\Desktop\matura\informatyka\c++\62\Main.cpp(13,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  62.vcxproj -> C:\Users\grzeg\Desktop\matura\informatyka\c++\62\x64\Debug\62.exe

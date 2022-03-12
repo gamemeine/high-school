@@ -1,0 +1,12 @@
+Zadanie 1
+118,06	43,46
+
+Zadanie 2
+53	98
+
+Zadanie 4
+		Z	W
+Najmniejsza	80,71	28,05
+Największa	123,32	54,15
+
+
