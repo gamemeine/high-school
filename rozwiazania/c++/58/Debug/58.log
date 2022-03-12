@@ -1,4 +1,0 @@
-﻿  58.cpp
-C:\Users\grzeg\Desktop\matura\informatyka\c++\58\58.cpp(102,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\grzeg\Desktop\matura\informatyka\c++\58\58.cpp(103,10): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
-  58.vcxproj -> C:\Users\grzeg\Desktop\matura\informatyka\c++\58\Debug\58.exe

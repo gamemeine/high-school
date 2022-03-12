@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include "main.h"
 using namespace std;
 #define n 200
 int tab[n];
