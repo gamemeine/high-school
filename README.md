@@ -1,1 +1,1 @@
-# Kotki i plotki 2022 :3
+# Kotki i plotki 2022 
