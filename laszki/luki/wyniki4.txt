@@ -1,7 +1,0 @@
-1.
-min: 1, max: 1056392131
-2.
-dlugosc: 17, pierwsza: 193134524, ostatnia: 223545714
-3.
-krotnosc: 31
-149, 11, 
